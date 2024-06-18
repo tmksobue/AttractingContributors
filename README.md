@@ -20,4 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Goal:
+I want you to tell me what you have been watching recently!
+
+# Something you have watched recently!
