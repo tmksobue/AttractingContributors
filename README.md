@@ -2,5 +2,5 @@
 What is your favorite daily dish? (In other words, side dish)  
 Anything from typical products of your country to world-famous ones!
 
-# List of daily dish
+# List of daily dishes
 (0. fried chicken (karaage))
