@@ -26,3 +26,4 @@ I want you to tell me what you have been watching recently!
 # Something you have watched recently!
 1. Sound! Euphonium
 2. House Season 2
+3. Frieren: Beyond Journey's End / 葬送のフリーレン
