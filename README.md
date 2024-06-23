@@ -31,3 +31,4 @@ I want you to tell me what you have been watching recently!
 4. Top　Gun
 5. 無職転生 (Mushoku Tensei)
 6. Screen of my computer
+7. 500 days of Summer(Movie)
