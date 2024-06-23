@@ -33,3 +33,4 @@ I want you to tell me what you have been watching recently!
 7. 500 days of Summer(Movie)
 8. The Matrix
 9. Mobile Suit Gundam SEED Freedom
+10. Young Sheldon Season 7
