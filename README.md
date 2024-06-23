@@ -27,4 +27,9 @@ I want you to tell me what you have been watching recently!
 1. Sound! Euphonium
 2. House Season 2
 3. Frieren: Beyond Journey's End / 葬送のフリーレン
-4. Mobile Suit Gundam SEED Freedom
+4. Top　Gun
+5. 無職転生 (Mushoku Tensei)
+6. Screen of my computer
+7. 500 days of Summer(Movie)
+8. The Matrix
+9. Mobile Suit Gundam SEED Freedom
