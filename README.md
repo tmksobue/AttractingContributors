@@ -32,3 +32,4 @@ I want you to tell me what you have been watching recently!
 6. Screen of my computer
 7. 500 days of Summer(Movie)
 8. The Matrix
+9. Mobile Suit Gundam SEED Freedom
