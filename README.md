@@ -2,4 +2,5 @@
 Can you recommend a beef bowl restaurant?
 
 # List
+- Nakau
 - SUKIYA
