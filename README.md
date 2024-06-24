@@ -2,6 +2,7 @@
 Can you recommend a beef bowl restaurant?
 
 # List
+- Yoshinoya
 - Matsuya
 - Nakau
 - SUKIYA
