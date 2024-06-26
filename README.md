@@ -13,3 +13,4 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 - Kirby of the Stars
 - MARIO KART Series
 - Hello kitty
+- The World Ends With You
