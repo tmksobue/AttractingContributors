@@ -14,4 +14,5 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 - MARIO KART Series
 - Hello kitty
 - The World Ends With You
+- Dota 2
 - Honkai: Star rail
