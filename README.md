@@ -3,15 +3,14 @@ What is your favorite daily dish? (In other words, side dish)
 Anything from typical products of your country to world-famous ones!
 
 # List of daily dishes
-(0. fried chicken (karaage))<br>
-10. Kimchi<br>
- 9. Tamagoyaki<br>
- 8. Nikujaga<br>
- 7. Spinach ohitashi<br>
- 6. Yakitori<br>
- 5. Harumaki<br>
- 4. salad<br>
- 3. Tempura<br>
- 2. Chilled Tofu<br>
- 1. 焼き鳥<br>
-  <br>
+(fried chicken (karaage))<br>
+Kimchi<br>
+Tamagoyaki<br>
+Nikujaga<br>
+Spinach ohitashi<br>
+Yakitori<br>
+Harumaki<br>
+salad<br>
+Tempura<br>
+Chilled Tofu<br>
+焼き鳥<br>
