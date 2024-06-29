@@ -4,7 +4,7 @@ Anything from typical products of your country to world-famous ones!
 
 # List of daily dishes
 (0. fried chicken (karaage))<br>
-10. Kimchi
+10. Kimchi<br>
  9. Tamagoyaki<br>
  8. Nikujaga<br>
  7. Spinach ohitashi<br>
@@ -14,3 +14,4 @@ Anything from typical products of your country to world-famous ones!
  3. Tempura<br>
  2. Chilled Tofu<br>
  1. 焼き鳥<br>
+  <br>
