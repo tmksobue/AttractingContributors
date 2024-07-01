@@ -15,4 +15,5 @@ Tempura<br>
 Chilled Tofu<br>
 焼き鳥<br>
 Tempeh<br>
-Hamburg steak (Hanba-gu)
+Hamburg steak (Hanba-gu)<br>
+肉を甘辛く炒めたやつ<br>
