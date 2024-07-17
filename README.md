@@ -19,4 +19,4 @@ Goal - I want contributors to help me list some favorite Pokémon.
 11. 
 12. 
 13. snorlax
-14. 
+14. カビゴン
