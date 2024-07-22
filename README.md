@@ -18,3 +18,4 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 - Honkai: Star rail
 - Apex
 - Monser Hounter
+- Pokemon
