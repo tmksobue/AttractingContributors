@@ -6,3 +6,4 @@ Can you recommend a beef bowl restaurant?
 - Matsuya
 - Nakau
 - SUKIYA
+- AsakusaImahan
