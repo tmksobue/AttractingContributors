@@ -36,3 +36,4 @@ We'd love for you to contribute your favorite sci-fi books to our list! To add a
 8. "Dune" by Frank Herbert
 9. "Kafka on the Shore"（海辺のカフカ）　by Haruki Murakami
 10. The Maze Runner
+11. Library War (図書館戦争)
