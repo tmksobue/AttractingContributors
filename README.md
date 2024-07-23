@@ -21,4 +21,5 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 - Genshin Impact
 - Pokemon
 - LoL
+- Pokemon black and white
 
