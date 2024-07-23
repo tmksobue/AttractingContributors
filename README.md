@@ -20,4 +20,5 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 - Monser Hounter
 - Genshin Impact
 - Pokemon
+- LoL
 
