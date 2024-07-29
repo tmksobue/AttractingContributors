@@ -19,6 +19,7 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 - Apex
 - Monser Hounter
 - Genshin Impact
+- Project Sekai Colorful stage!
 - Pokemon
 - LoL
 
