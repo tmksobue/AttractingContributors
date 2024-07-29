@@ -7,3 +7,5 @@ Can you recommend a beef bowl restaurant?
 - Nakau
 - SUKIYA
 - AsakusaImahan
+- YOSHONOYA
+
